@@ -1,6 +1,6 @@
 # Meow
 
-![flag](Misc/Meow_completed.PNG)
+![](Misc/Meow_completed.PNG)
 
 This is my first my machine when learning the basics of penetration testing. Tags included in this machine are:
 

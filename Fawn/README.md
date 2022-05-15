@@ -2,7 +2,7 @@
 
 ![](Misc/Fawn_completed.PNG)
 
-This is my second my machine when learning the basics of penetration testing. Tags included in this machine are:
+This is my second machine when learning the basics of penetration testing. Tags included in this machine are:
 
 - Enumeration
 - FTP

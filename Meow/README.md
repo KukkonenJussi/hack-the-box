@@ -9,6 +9,11 @@ This is my first my machine when learning the basics of penetration testing. Tag
 - External
 - Penetration Tester Level 1
 
+## <ins>**Questions**
+
+* [Questions 1-4](Misc/questions_1.PNG)
+* [Questions 5-8](Misc/questions_2.PNG)
+
 ## <ins>**Flag**
 
 To get the flag you have to use <ins>**telnet**</ins> command to connect to the machine. The previous question hints that the user name is root.

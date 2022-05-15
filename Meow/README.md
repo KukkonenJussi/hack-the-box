@@ -2,7 +2,7 @@
 
 ![](Misc/Meow_completed.PNG)
 
-This is my first my machine when learning the basics of penetration testing. Tags included in this machine are:
+This is my first machine when learning the basics of penetration testing. Tags included in this machine are:
 
 - Enumeration
 - Telnet

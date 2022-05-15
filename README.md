@@ -6,3 +6,4 @@ Hi! This repository is all about my journey to learn some cyber security from we
 
 * [1st machine: Meow](Meow/README.md)
 * [2nd machine: Fawn](Fawn/README.md)
+* [3rd machine: Dance](Dance/README.md)

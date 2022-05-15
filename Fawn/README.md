@@ -9,6 +9,11 @@ This is my second my machine when learning the basics of penetration testing. Ta
 - External
 - Penetration Tester Level 1
 
+## <ins>**Questions**
+
+* [Questions 1-4](Misc/questions_1.PNG)
+* [Questions 5-8](Misc/questions_2.PNG)
+
 ## <ins>**Flag**
 
 To get this flag you can use <ins>**nmap**</ins> which shows some vulnerabilities. With the following command you can see operating system with the open ports:

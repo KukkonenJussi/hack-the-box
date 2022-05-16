@@ -17,7 +17,7 @@ Hi! This repository is all about my journey to learn some cyber security from we
 * [3rd machine: SMB (Dance)](Dance/README.md)
 * [4th machine: Enumeration, Redis (Redeemer)](Redeemer/README.md)
 
-
 #### Starting out: Tier 1 machines
 
 * [1st machine: SQL Injection (Appointment)](Appointment/README.md)
+* [2nd machine: MariaDB (Sequel)](Sequel/README.md)

@@ -11,6 +11,7 @@ This is my ninth machine when learning the basics of penetration testing. Tags i
 
 * [Questions 1-4](Misc/questions_1.PNG)
 * [Questions 5-7](Misc/questions_2.PNG)
+* [Questions 8-11](Misc/questions_3.PNG) 
 
 ## <ins>**Tasks**
 

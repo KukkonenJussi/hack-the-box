@@ -1,5 +1,7 @@
 # Responder
 
+![](Misc/responder_pwnd.PNG)
+
 This is my ninth machine when learning the basics of penetration testing. Tags in this machine are:
 
 - SAMBA
@@ -55,7 +57,7 @@ Before using any tools for task 10 let us check the output of **ip a** command t
 
 ![](Misc/ip.PNG)
 
-We can see that our eth port is **tun0**. Let us use that for the task 10 with **responder** command.
+We can see that the eth port that is connected to the target machine is **tun0**. Let us use that for the task 10 with **responder** command.
 
 ~~~
 sudo responder -I tun0
@@ -83,3 +85,27 @@ John --wordlist=rockyou.txt hash
 And boom! We got our password! here is the output of the John command
 
 ![](Misc/password.PNG)
+
+## <ins>**Flag**
+
+Now that we got both username and password for the target machine we have to think how we can get access to the target machine. One possible solution for example is to use tool called evil-winrm. Let us download that and read some manuals.
+
+![](Misc/evil-winrm.PNG)
+
+After reading the manuals it seems really straightforward to give it a try with the following command:
+
+~~~
+evil-winrm -i IP -u USER
+~~~
+
+Nice! we got in! Now let us navigate and see directories if we can find the flag.
+
+![](Misc/evil-winrm-success.PNG)
+
+After a while the correct directory was found. Now let us open the flag.txt
+
+![](Misc/flag.PNG)
+
+And there we have it! Now we can submit the flag and move on to the next flag! Hurray!
+
+![](Misc/flag_1.PNG)

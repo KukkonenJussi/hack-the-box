@@ -2,7 +2,7 @@
 
 ![](Misc/crocodile_pwnd.PNG)
 
-This is my eigth machine when learning the basics of penetration testing. Tags in this machine are:
+This is my seventh machine when learning the basics of penetration testing. Tags in this machine are:
 
 - PHP
 - FTP

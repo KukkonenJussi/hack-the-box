@@ -2,7 +2,7 @@
 
 ![](Misc/responder_pwnd.PNG)
 
-This is my ninth machine when learning the basics of penetration testing. Tags in this machine are:
+This is my eight machine when learning the basics of penetration testing. Tags in this machine are:
 
 - SAMBA
 - Enumeration
@@ -88,7 +88,7 @@ And boom! We got our password! here is the output of the John command
 
 ## <ins>**Flag**
 
-Now that we got both username and password for the target machine we have to think how we can get access to the target machine. One possible solution for example is to use tool called evil-winrm. Let us download that and read some manuals.
+Now that we got both username and password for the target machine we have to think how we can get access to the target machine. <ins>**WinRM**</ins> is one of the tags in this machine and after some googling one possible solution is to use tool called evil-winrm. Let us try that tool. First we have to download that and read some manuals.
 
 ![](Misc/evil-winrm.PNG)
 

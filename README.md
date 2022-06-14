@@ -23,3 +23,7 @@ Hi! This repository is all about my journey to learn some cyber security from we
 * [2nd machine: MariaDB (Sequel)](Sequel/README.md)
 * [3rd machine: PHP, FTP (Crocodile)](Crocodile/README.md)
 * [4th machine: Apache, WinRM (Crocodile)](Responder/README.md)
+
+#### Starting out: Tier 2 machines
+
+* [1st machine: SMB (Archtype)](Achtype/README.md)
